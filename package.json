@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kitsaponjim/Back-End/issues"
   },
-  "homepage": "https://github.com/Kitsaponjim/Back-End#readme"
+  "homepage": "https://github.com/Kitsaponjim/Back-End#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
